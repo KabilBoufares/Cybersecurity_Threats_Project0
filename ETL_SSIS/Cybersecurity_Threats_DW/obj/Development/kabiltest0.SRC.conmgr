@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="kabiltest0.SRC"
+  DTS:DTSID="{4D9656B6-5123-400F-86FC-78E89BAB988A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=kabiltest0;Initial Catalog=CybersecurityDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Cybersecurity_Threats_DW-{4D9656B6-5123-400F-86FC-78E89BAB988A}kabiltest0.SRC;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

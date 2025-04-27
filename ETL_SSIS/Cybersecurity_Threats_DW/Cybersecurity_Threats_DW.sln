@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Cybersecurity_Threats_DW", "Cybersecurity_Threats_DW.dtproj", "{2F0E8474-09E7-7ECF-92A2-AD2532928CD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0E8474-09E7-7ECF-92A2-AD2532928CD7}.Development|Default.ActiveCfg = Development
+		{2F0E8474-09E7-7ECF-92A2-AD2532928CD7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C76FA0-8862-4A26-98CB-71B6D5BA2BFC}
+	EndGlobalSection
+EndGlobal

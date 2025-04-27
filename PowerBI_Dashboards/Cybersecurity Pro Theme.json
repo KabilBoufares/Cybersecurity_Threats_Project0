@@ -1,0 +1,54 @@
+{
+    "name": "Cybersecurity Professional Theme",
+    "dataColors": [
+      "#0B5CAD",  
+      "#00A69C", 
+      "#F2C037", 
+      "#F25C54", 
+      "#647687", 
+      "#C8D6E5"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#0B5CAD",
+    "tableAccent": "#00A69C",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "titleText": [
+            {
+              "fontFamily": "Segoe UI",
+              "fontSize": 16,
+              "fontWeight": "bold",
+              "color": "#0B5CAD"
+            }
+          ],
+          "labels": [
+            {
+              "fontFamily": "Segoe UI",
+              "fontSize": 12,
+              "color": "#333333"
+            }
+          ]
+        }
+      },
+      "card": {
+        "*": {
+          "cardTitle": [
+            {
+              "color": "#0B5CAD",
+              "fontSize": 14,
+              "fontFamily": "Segoe UI"
+            }
+          ],
+          "label": [
+            {
+              "color": "#647687",
+              "fontSize": 12,
+              "fontFamily": "Segoe UI"
+            }
+          ]
+        }
+      }
+    }
+  }
+  
