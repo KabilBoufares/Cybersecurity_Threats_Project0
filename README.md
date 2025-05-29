@@ -1,8 +1,5 @@
 
 
----
-
-
 # 🔐 Cybersecurity Threats – Data Warehouse & Power BI
 
 > 📊 Projet de Business Intelligence – Année universitaire 2024–2025  
@@ -87,8 +84,7 @@ Ce projet a pour objectif la mise en place d’un **entrepôt de données (Data 
 
 ## 👤 Auteur
 
-- **Nom :** [Votre nom ici]  
-- **Email :** [optionnel]  
+- **Nom :** Kabil Boufares
 - **Université / Formation :** LCS2, 2024–2025
 
 ---
